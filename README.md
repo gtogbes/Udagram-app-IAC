@@ -21,3 +21,7 @@ Features
 
 9 - Entire environment is fully virtualized in a cloud platform that can be taken down and brought back up within a short period of time. The process of creating and starting all the services, spinning up instances are automated via scripts in this repo.
 
+
+Infrastructure Architectural Diagram
+
+![udagram](https://user-images.githubusercontent.com/70475985/174470448-94c7a734-237c-4459-bd4f-d42fb90f34d6.png)
