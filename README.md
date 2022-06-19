@@ -1,4 +1,4 @@
-**Project_URL: http://g-uda-webap-fqrjndskefd0-1911230230.us-west-2.elb.amazonaws.com/
+**Project_URL:** http://g-uda-webap-fqrjndskefd0-1911230230.us-west-2.elb.amazonaws.com/
 
 **Deploy a High-Availability Web Application (Udagram APP) Using AWS CloudFormation**
 
