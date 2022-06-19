@@ -1,5 +1,5 @@
-Deploy a High-Availability Web Application Using AWS CloudFormation
-This Project is an Instagram-Like App Infrastructure-as-code (IAC) deployment Called UDAGRAM. The purpose is to automates the process of creating a secured and high-availability environment, and deploying an application  into an Apache Web Server. The script contains all the configurations needed for a repeatable process so that the infrastructure can be discarded and recreated at will multiple times.
+**Deploy a High-Availability Web Application Using AWS CloudFormation
+**This Project is an Instagram-Like App Infrastructure-as-code (IAC) deployment Called UDAGRAM. The purpose is to automates the process of creating a secured and high-availability environment, and deploying an application  into an Apache Web Server. The script contains all the configurations needed for a repeatable process so that the infrastructure can be discarded and recreated at will multiple times.
 Features
 1 - Load-balanced servers with auto-scaling capability across two availability zones In a single region.
 
@@ -22,6 +22,6 @@ Features
 9 - Entire environment is fully virtualized in a cloud platform that can be taken down and brought back up within a short period of time. The process of creating and starting all the services, spinning up instances are automated via scripts in this repo.
 
 
-Infrastructure Architectural Diagram
-
+**Infrastructure Architectural Diagram
+**
 ![udagram](https://user-images.githubusercontent.com/70475985/174470448-94c7a734-237c-4459-bd4f-d42fb90f34d6.png)
